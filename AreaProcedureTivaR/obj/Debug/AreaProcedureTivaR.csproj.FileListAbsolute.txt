@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\bin\Debug\AreaProcedureTivaR.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\bin\Debug\AreaProcedureTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\bin\Debug\AreaProcedureTivaR.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\obj\Debug\AreaProcedureTivaR.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\obj\Debug\AreaProcedureTivaR.frmAreaProcedure.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\obj\Debug\AreaProcedureTivaR.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\obj\Debug\AreaProcedureTivaR.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\obj\Debug\AreaProcedureTivaR.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Rait, Tiva (s230816)\Unit 4 (Procedures & Functions)\AreaProcedureTivaR\AreaProcedureTivaR\obj\Debug\AreaProcedureTivaR.pdb

@@ -29,33 +29,74 @@
         private void InitializeComponent()
         {
             this.lblInstructions = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblLength = new System.Windows.Forms.Label();
+            this.lblWidth = new System.Windows.Forms.Label();
+            this.txtLengthBox = new System.Windows.Forms.TextBox();
+            this.txtWidthBox = new System.Windows.Forms.TextBox();
+            this.btnCalculate = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblInstructions
             // 
             this.lblInstructions.AutoSize = true;
-            this.lblInstructions.Location = new System.Drawing.Point(39, 58);
+            this.lblInstructions.Location = new System.Drawing.Point(39, 40);
             this.lblInstructions.Name = "lblInstructions";
             this.lblInstructions.Size = new System.Drawing.Size(202, 13);
             this.lblInstructions.TabIndex = 0;
             this.lblInstructions.Text = "Enter the length and width of a rectangle.";
             // 
-            // label1
+            // lblLength
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(42, 108);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.lblLength.AutoSize = true;
+            this.lblLength.Location = new System.Drawing.Point(39, 106);
+            this.lblLength.Name = "lblLength";
+            this.lblLength.Size = new System.Drawing.Size(43, 13);
+            this.lblLength.TabIndex = 1;
+            this.lblLength.Text = "Length:";
+            // 
+            // lblWidth
+            // 
+            this.lblWidth.AutoSize = true;
+            this.lblWidth.Location = new System.Drawing.Point(39, 148);
+            this.lblWidth.Name = "lblWidth";
+            this.lblWidth.Size = new System.Drawing.Size(38, 13);
+            this.lblWidth.TabIndex = 2;
+            this.lblWidth.Text = "Width:";
+            // 
+            // txtLengthBox
+            // 
+            this.txtLengthBox.Location = new System.Drawing.Point(111, 106);
+            this.txtLengthBox.Name = "txtLengthBox";
+            this.txtLengthBox.Size = new System.Drawing.Size(100, 20);
+            this.txtLengthBox.TabIndex = 3;
+            // 
+            // txtWidthBox
+            // 
+            this.txtWidthBox.Location = new System.Drawing.Point(111, 148);
+            this.txtWidthBox.Name = "txtWidthBox";
+            this.txtWidthBox.Size = new System.Drawing.Size(100, 20);
+            this.txtWidthBox.TabIndex = 4;
+            // 
+            // btnCalculate
+            // 
+            this.btnCalculate.Location = new System.Drawing.Point(89, 200);
+            this.btnCalculate.Name = "btnCalculate";
+            this.btnCalculate.Size = new System.Drawing.Size(75, 23);
+            this.btnCalculate.TabIndex = 5;
+            this.btnCalculate.Text = "Calculate Area";
+            this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // frmAreaProcedure
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(375, 278);
+            this.Controls.Add(this.btnCalculate);
+            this.Controls.Add(this.txtWidthBox);
+            this.Controls.Add(this.txtLengthBox);
+            this.Controls.Add(this.lblWidth);
+            this.Controls.Add(this.lblLength);
             this.Controls.Add(this.lblInstructions);
             this.Name = "frmAreaProcedure";
             this.Text = "Area Procedure by Tiva Rait";
@@ -67,7 +108,11 @@
         #endregion
 
         private System.Windows.Forms.Label lblInstructions;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblLength;
+        private System.Windows.Forms.Label lblWidth;
+        private System.Windows.Forms.TextBox txtLengthBox;
+        private System.Windows.Forms.TextBox txtWidthBox;
+        private System.Windows.Forms.Button btnCalculate;
     }
 }
 
